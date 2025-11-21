@@ -27,7 +27,7 @@ health-monitoring-app
 
  
 Demo
-   * sky-stream-weather-g689b2hti-bhupendrar1s-projects.vercel.app
+   * https://vercel.com/bhupendrar1s-projects/sky-stream-weather-app
 
 Getting Started
     These instructions will help you get a copy of the project up and running on your local machine for development and testing purposes.
@@ -53,17 +53,18 @@ Running Locally
 
 Contributing
 
-   Contributions are welcome! Please follow these steps:
+   * Contributions are welcome! Please follow these steps:
+   
 
 Fork the repository
 
-  Create a feature branch: git checkout -b feat/my-feature
+ * Create a feature branch: git checkout -b feat/my-feature
 
-  Commit your changes: git commit -m "feat: add ..."
+ * Commit your changes: git commit -m "feat: add ..."
 
-  Push to the branch: git push origin feat/my-feature
+ *  Push to the branch: git push origin feat/my-feature
 
-  Open a Pull Request
+ *  Open a Pull Request
 
 Please follow the existing code style and add tests for new functionality.
 
