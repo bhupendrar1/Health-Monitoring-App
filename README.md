@@ -1,30 +1,6 @@
 Health Monitoring App
 
 A responsive React (JavaScript) application for monitoring users' health metrics in real-time and visualizing trends.
-
-Project Structure
-
-health-monitoring-app
- ├─ public/
- │ └─ index.html
- | └─ manifest.json
- ├─ src/
- │ ├─ components
- │ │ ├─ Dashboard.js
- │ │ ├─ GoalSetting.js
- │ │ └─ MetricInput.js
- | | └─ ThemeToggle.js
- │ ├─ contexts
- | |  ├─ ThemeContext.js
- │ ├─ index.css
- │ ├─ App.css
- │ ├─ App.js
- │ └─ index.js
- ├─ .gitignore
- ├─ package.json
- ├─package-lock.json
- └─ README.md
-
  
 Demo
    * https://vercel.com/bhupendrar1s-projects/sky-stream-weather-app
